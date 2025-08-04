@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # Open Museum
 
 See it in action with demo content at [http://demo.apostrophecms.org](http://demo.apostrophecms.org).
